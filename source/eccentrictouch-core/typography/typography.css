@@ -1,0 +1,19 @@
+@import url("../../eccentrictouch-vendors/fonts.css");
+.font-sans {
+  font-family: "Inter", sans-serif;
+}
+
+.font-serif {
+  font-family: "Lora", serif;
+}
+
+.font-monospace {
+  font-family: "Space Mono", monospace;
+}
+
+:root {
+  --font-sans: Inter, sans-serif;
+  --font-serif: Lora, serif;
+  --font-monospace: Space Mono, monospace;
+}
+/*# sourceMappingURL=typography.css.map */
